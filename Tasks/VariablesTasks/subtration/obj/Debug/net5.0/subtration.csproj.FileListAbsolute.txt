@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration.deps.json
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration.runtimeconfig.json
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/ref/subtration.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/bin/Debug/net5.0/subtration.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/ref/subtration.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/subtration/obj/Debug/net5.0/subtration.genruntimeconfig.cache

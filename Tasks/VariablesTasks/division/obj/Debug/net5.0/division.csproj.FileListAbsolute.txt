@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division.deps.json
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division.runtimeconfig.json
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/ref/division.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/division/bin/Debug/net5.0/division.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/ref/division.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/division/obj/Debug/net5.0/division.genruntimeconfig.cache

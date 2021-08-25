@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication.deps.json
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication.runtimeconfig.json
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/ref/multiplication.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/bin/Debug/net5.0/multiplication.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/ref/multiplication.dll
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.pdb
+/home/jm/Erbaver/Tasks/VariablesTasks/multiplication/obj/Debug/net5.0/multiplication.genruntimeconfig.cache
