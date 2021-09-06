@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game.deps.json
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game.runtimeconfig.json
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game.dll
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/ref/guessing_game.dll
+/home/jm/Erbaver/Tasks/guessing_game/bin/Debug/net5.0/guessing_game.pdb
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.dll
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/ref/guessing_game.dll
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.pdb
+/home/jm/Erbaver/Tasks/guessing_game/obj/Debug/net5.0/guessing_game.genruntimeconfig.cache

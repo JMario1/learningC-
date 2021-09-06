@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster.deps.json
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster.runtimeconfig.json
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster.dll
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/ref/result_roaster.dll
+/home/jm/Erbaver/Tasks/result_roaster/bin/Debug/net5.0/result_roaster.pdb
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.dll
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/ref/result_roaster.dll
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.pdb
+/home/jm/Erbaver/Tasks/result_roaster/obj/Debug/net5.0/result_roaster.genruntimeconfig.cache
