@@ -9,15 +9,23 @@ namespace BankApp
         public int accountNumber = 0;
         public int lastDeposit = 0;
         public int lastWithdrawel = 0;
-        int balance = 0;
+        int balance = 2000;
 
         
 
         public void Deposit(int amount)
         {
-            balance += amount;
-            Console.WriteLine("Successfully depoited " + amount);
-            Console.WriteLine("current balance is " + balance);
+            if(amount + balance > 1000000)
+            {
+                Console.WriteLine("Operation unsucccessful \nMaxmium account balance allowed is #1000000");
+            }
+            else
+            {
+                
+                balance += amount;
+                Console.WriteLine("Successfully depoited " + amount);
+                Console.WriteLine("current balance is " + balance);
+            }
         } 
         public void Withdrawel(int amount) 
         {

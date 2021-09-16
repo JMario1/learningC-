@@ -114,7 +114,7 @@ namespace BankApp
                 {
                     Console.Write("Please enter account number: ");
                     int num = int.Parse(Console.ReadLine());
-                    Console.Write("This action is irreversible, are you sure? y/n: ");
+                    Console.Write("You are about to close your account, are you sure? y/n: ");
 
                     string del = Console.ReadLine();
                         if(del == "y" || del == "Y")
@@ -122,6 +122,7 @@ namespace BankApp
                         if(Accounts.ContainsKey(num) == true)
                         {
                             DeleteBankAccount(num, Accounts);
+                            Console.WriteLine("Account succesfully closed");
                         }
                         else
                         {
@@ -167,7 +168,6 @@ namespace BankApp
         static void DeleteBankAccount(int accountNumber, Dictionary<int, BankAccount> accounts) 
         {
             accounts.Remove(accountNumber);
-            Console.WriteLine("successfully delete account");
 
         }
     }
