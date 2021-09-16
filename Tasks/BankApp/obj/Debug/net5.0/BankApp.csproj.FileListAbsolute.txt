@@ -1,0 +1,16 @@
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.csproj.AssemblyReference.cache
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.AssemblyInfoInputs.cache
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.AssemblyInfo.cs
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.csproj.CoreCompileInputs.cache
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp.deps.json
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp.runtimeconfig.json
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp.runtimeconfig.dev.json
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp.dll
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/ref/BankApp.dll
+/home/jm/Erbaver/Tasks/BankApp/bin/Debug/net5.0/BankApp.pdb
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.dll
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/ref/BankApp.dll
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.pdb
+/home/jm/Erbaver/Tasks/BankApp/obj/Debug/net5.0/BankApp.genruntimeconfig.cache
